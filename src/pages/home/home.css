@@ -239,6 +239,7 @@
 
 footer {
     background: var(--color-primary);
+    /* background: rgba(149, 191, 216, 0.508)(1, 19, 106); */
     margin-top: 7rem;
     padding-top: 7rem;
     font-size: 0.9rem;
@@ -246,7 +247,7 @@ footer {
 }
 
 .footer__container {
-    display: grid;
+    display: grid;  
     grid-template-columns: 26rem 1fr 1fr 1fr;
     gap: 6rem;
 }

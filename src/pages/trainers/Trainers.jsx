@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/header_bg_5.jpg'
+import HeaderImage from '../../images/facecare1.jpg'
 import {trainers} from '../../data'
 import {BsInstagram} from 'react-icons/bs'
 import { AiOutlineTwitter } from 'react-icons/ai'
@@ -11,7 +11,7 @@ import './trainers.css'
 const Trainers = () => {
   return (
     <>
-    <Header title="Our Trainers" image={HeaderImage}>
+    <Header title="Our Team" image={HeaderImage}>
     Lorem ipsum dolor sit, amet consectetur adipisicing elit.
     Provident iure odit perspiciatis nam minima eos autem recusandae velit!
     </Header>

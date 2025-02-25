@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import Logo from '../images/logo.png'
+import Logo from '../images/logo coil.png'
 import { FaLinkedin } from 'react-icons/fa'
 import { FaFacebookF } from 'react-icons/fa'
 import { AiOutlineTwitter } from 'react-icons/ai'
@@ -18,9 +18,10 @@ const Footer = () => {
                     <img src={Logo} alt="Footer Logo" />
                 </Link>
                 <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing 
-                    elit. Totam, veniam reiciendis maxime veritatis cupiditate 
-                    tempore delectus nobis unde beatae consequuntur!
+                    CoilSkin is an e-commerce platform focused 
+                    on transforming the beauty industry by offering 
+                    authentic, affordable, and accessible skincare 
+                    and haircare products.
                 </p>
                 <div className="footer__socials">
                     <a href="https://linkedin.com/" target="_blank" rel='noreferrer noopener' > <FaLinkedin /> </a>
@@ -34,7 +35,7 @@ const Footer = () => {
                 <h4>Permalinks</h4>
                 <Link to="/about">About</Link>
                 <Link to="/plans">Plans</Link>
-                <Link to="/trainers">Trainers</Link>
+                <Link to="/trainers">Team</Link>
                 <Link to="/gallery">Gallery</Link>
                 <Link to="/contact">Contact</Link>
             </article>
@@ -57,7 +58,7 @@ const Footer = () => {
         </div>
 
         <div className="footer__copyright">
-            <small>2023 LazyTechie &copy; All Rights Reserved</small>
+            <small>2025 CoilSkin &copy; All Rights Reserved</small>
         </div>
 
 

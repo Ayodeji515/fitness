@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/header_bg_4.jpg'
+import HeaderImage from '../../images/skincare2.webp'
 import Card from '../../UI/Card'
 import {plans} from '../../data'
 import { Link } from 'react-router-dom'

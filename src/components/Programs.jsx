@@ -10,7 +10,7 @@ const Programs = () => {
   return (
     <section className="programs">
         <div className="container programs__container">
-            <SectionHead icon={<FaCrown/>} title="Programs"/> 
+            <SectionHead icon={<FaCrown/>} title="Common Products"/> 
         
             <div className="programs__wrapper">
               {

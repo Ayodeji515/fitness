@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { json, Link } from 'react-router-dom';
 import Image from '../images/main_header.png'
 
 
@@ -7,12 +7,13 @@ const MainHeader = () => {
     <header className="main__header">
       <div className="container main__header-container">
         <div className="main__header-left">
-          <h4>#100DaysOfWorkOut</h4>
-          <h1>Join The Lengends Of The Fitness World</h1>
+          <h4>#100DaysOfSkinCareBeauty</h4>
+          <h1>Join The Lengends Of The Beauty World</h1>
           <p>
-            The Legends of the fitness world will endevour that the required 
-            equipments are being provided for as to carry out all fitness activities 
-            effectively.
+            CoilSkin is an e-commerce platform focused 
+            on transforming the beauty industry by offering 
+            authentic, affordable, and accessible skincare 
+            and haircare products.
           </p>
           <Link to="/plans" className="btn lg" >Get Started</Link>
 

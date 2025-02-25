@@ -1,4 +1,4 @@
-import Image from '../images/values.jpg'
+import Image from '../images/flyer.jpg'
 import SectionHead from './SectionHead'
 import { GiCutDiamond } from 'react-icons/gi'
 import { values } from '../data'
@@ -15,11 +15,9 @@ const Values = () => {
                 </div>
             </div>
             <div className="values__right">
-              <SectionHead icon={<GiCutDiamond/>} title="Values" />
+              <SectionHead icon={<GiCutDiamond/>} title="Values of CoilSkin" />
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                Similique molestias quidem temporibus repellendus? Deserunt 
-                corrupti obcaecati magni voluptatum odit accusamus, 
+                CoilSkin is built on values that truly matter to us and the people we serve: 
               </p>
               <div className="values__wrapper">
                 {
@@ -30,6 +28,7 @@ const Values = () => {
                       <small>{desc}</small>
                     </Card>
                   })
+
                 }
               </div>
             </div>

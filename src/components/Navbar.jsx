@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import {Link, NavLink} from 'react-router-dom'
-import Logo from '../images/logo.png'
+import Logo from '../images/logo coil.png'
 import{links} from '../data'
 import {VscThreeBars} from 'react-icons/vsc'
 import {MdOutlineClose} from 'react-icons/md'
@@ -16,7 +16,7 @@ const Navbar = () => {
    <nav>
     <div className="container nav__container">
        <Link to="/" className='logo' >
-        <img src={Logo} alt="Nav Logo" />
+        <img src={Logo} alt="CoilSkin" />
        </Link>
         <ul className={`nav__links ${isNavShowing ? 'show__nav' : 'hide__nav'}`}>
             {
