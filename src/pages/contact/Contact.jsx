@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/skincare1.webp'
+import HeaderImage from '../../images/logo2.png'
 import { MdEmail } from 'react-icons/md'
 import { FaFacebookF } from 'react-icons/fa'
 import { IoLogoWhatsapp } from 'react-icons/io'

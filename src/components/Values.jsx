@@ -1,4 +1,4 @@
-import Image from '../images/flyer.jpg'
+import Image from '../images/face3.jpg'
 import SectionHead from './SectionHead'
 import { GiCutDiamond } from 'react-icons/gi'
 import { values } from '../data'

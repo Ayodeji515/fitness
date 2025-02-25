@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/skincare1.webp'
+import HeaderImage from '../../images/logo2.png'
 
 import './gallery.css'
 
