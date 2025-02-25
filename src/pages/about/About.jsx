@@ -1,8 +1,8 @@
 import Header from '../../components/Header'
 import HeaderImage from '../../images/logo2.png'
-import StoryImage from '../../images/skincare1.webp'
-import VisionImage from '../../images/facecare1.jpg'
-import MissionImage from '../../images/skincare2.webp'
+import StoryImage from '../../images/face1.avif'
+import VisionImage from '../../images/face2.jpeg'
+import MissionImage from '../../images/face3.jpg'
 import './about.css'
 
 
