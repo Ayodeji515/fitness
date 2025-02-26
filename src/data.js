@@ -285,7 +285,7 @@ export const trainers = [
     {
         id: 2,
         image: Trainer2,
-        name: 'PI',
+        name: 'Joshua',
         job: 'Co-Founder',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
