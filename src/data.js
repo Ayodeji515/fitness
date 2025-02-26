@@ -40,28 +40,28 @@ export const programs = [
         id: 1,
         icon: <SiOpenaigym/>,
         title: "Body Soap",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "This is the day that the lord has made. We will rejoice! replace",
         path: "/programs/111"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Face Product",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "This is the day that the lord has made. We will rejoice! replace",
         path: "/programs/222"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Body Cream",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "This is the day that the lord has made. We will rejoice! replace",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Hair Product",
-        info: "This is the day that the lord has made. We will rejoice!",
+        info: "This is the day that the lord has made. We will rejoice! replace",
         path: "/programs/444"
     }
 ]
